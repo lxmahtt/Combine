@@ -7,11 +7,3 @@
 /build
 /captures
 .externalNativeBuild
-gradle
-FiveKM.iml
-gradlew
-gradlew.bat
-local.properties
-build
-.idea
-cropper
